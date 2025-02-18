@@ -1,2 +1,1 @@
-﻿# codealpha_tasks
-
+﻿# Short Tasks for Practising
