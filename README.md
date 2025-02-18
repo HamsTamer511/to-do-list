@@ -1,1 +1,1 @@
-﻿# Short Tasks for Practising
+﻿# Short Tasks for Practise
